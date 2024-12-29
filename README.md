@@ -35,9 +35,6 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/akunegel/akunegel/output/snake.svg" alt="Snake animation" />
-
 ###
 ###
 
