@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGVnbDRjODRna28zM3RocXdjd212dXU2MTQ5aGh1eWNmYWJsODYyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.webp" alt="Funny coding GIF" width="500" />
+</div>
+
 <h1 align="left">Hi there 👋</h1>
 
 ###
