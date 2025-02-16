@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I’m Anatole, a French student at School 42 Nice.  <br>My studies have been focused on C and C++, but I’ve also gained experience with Python, Django, React, Docker, Git and more.  <br>I’m passionate about building efficient solutions and exploring new technologies through collaborative projects.</h2>
+<h2 align="left">I’m Anatole, a French student at School 42 Nice. </h2>
 
 ###
 
